@@ -1,6 +1,8 @@
 <?php
 
-echo"EJERCICIO 1";
+$nombre="borja";
+
+echo"Hola gente ".$nombre;
 
 
 ?>
